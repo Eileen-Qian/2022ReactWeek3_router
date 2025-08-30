@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2022ReactWeek3_router/static/css/main.f855e6bc.css",
+    "main.js": "/2022ReactWeek3_router/static/js/main.717d062b.js",
+    "static/js/453.96453769.chunk.js": "/2022ReactWeek3_router/static/js/453.96453769.chunk.js",
+    "index.html": "/2022ReactWeek3_router/index.html",
+    "main.f855e6bc.css.map": "/2022ReactWeek3_router/static/css/main.f855e6bc.css.map",
+    "main.717d062b.js.map": "/2022ReactWeek3_router/static/js/main.717d062b.js.map",
+    "453.96453769.chunk.js.map": "/2022ReactWeek3_router/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.717d062b.js"
+  ]
+}
